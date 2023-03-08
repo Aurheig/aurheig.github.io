@@ -1,1 +1,19 @@
 
+
+        
+        
+        body{
+            background-color:rgb(67, 207, 186);
+        }
+        #titulo{
+            color:rgb(214, 34, 214);
+        }
+        .palabras1{
+            color:rgb(0, 56, 209);
+        }
+        .palabras2{
+            color:rgb(230, 18, 22);
+        }
+        p{
+            background-color:rgb(106, 212, 141);
+        }
